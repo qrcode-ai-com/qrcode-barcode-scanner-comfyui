@@ -1,0 +1,26 @@
+{
+  "schema": "qrscan-comfyui-stage/1",
+  "engine": {
+    "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
+    "revision": "eb18fee880cf37694502b1da416d5cb931729592"
+  },
+  "satellite": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-comfyui",
+  "files": {
+    ".comfyignore": "d571f4af47dca7c18cd52df1214042f6daee2471a0617acf2c43521dea931258",
+    ".github/workflows/publish.yml": "37e8172f047cf874bf6e3b58c57576fe2e136da972da463cc68cac75e937784d",
+    ".github/workflows/tests.yml": "70569a81e55ad5dbecef22e62afa6c1af71fe4605d866c282c0d30eceb3d20a8",
+    ".gitignore": "2099adc7181aa4fdc5b7d708714eb20e71c7aa1b910829d34bd35350f185f087",
+    "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
+    "README.md": "b2f357b9aa22cc5355350f2da0871f61e54cf0e1272c8dea2faa1c2a9e76f6ec",
+    "__init__.py": "86d14984de959cddcb23d7fc20bdec070fcfe64e2713cd352a3463011eb63c18",
+    "pyproject.toml": "ea29e29330f53b16a6374aaf7457b2e36c57024d401d9b3eb7f0cdde87d100bd",
+    "qrscan_node.py": "571ab4befa2b5742aacc66f6c30deefe1739468f9fc180c433c5eef590d1566f",
+    "requirements.txt": "c3d9d9770e9271e52d7e681806bfa7d248edc05957748688fab44627b6faa9a4",
+    "tests/conftest.py": "ff226ccf3b1c6e6a6ef8a2a52126426dc499b59b089733b1799180c2bac97309",
+    "tests/fixtures/clean/gen_v5_q.png": "1dc399cad19623a145b20251cf1c0da42ea4f54fd79871a4dd796c9554822dd6",
+    "tests/fixtures/symbology/mixed-code128-qr.png": "c636e8d56df483ff1ec06dbe9b5bcba226c579f8fc1c3d10c4ccf4e100762ec8",
+    "tests/requirements.txt": "fc61536c2a8ee8224561ec0f6fb8acd2fad48512ce1c7334f1fb6c2ca03b9561",
+    "tests/test_node.py": "d13110361c80fd4b03a3b0ae17773742da81085b530da48982bbcdb5ccf71fbc",
+    "workflows/scan-mixed-fixture.json": "0a340c1a6e6e792c9c1b64a490644de6c05d273d214128ba941cc424888ae8dc"
+  }
+}
