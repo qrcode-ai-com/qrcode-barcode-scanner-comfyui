@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qrcode-ai-com/.github/main/profile/assets/banner-python-dark.gif?v=05df706be1b2">
-      <img src="https://raw.githubusercontent.com/qrcode-ai-com/.github/main/profile/assets/banner-python-light.gif?v=c050b0a71771" alt="QR Code &amp; Barcode Scanner for Python: the Python logo, the quick start in Python, and a QR code and a barcode being read" width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qrcode-ai-com/.github/main/profile/assets/banner-comfyui-dark.gif?v=f158e5a73a13">
+      <img src="https://raw.githubusercontent.com/qrcode-ai-com/.github/main/profile/assets/banner-comfyui-light.gif?v=9125358c2b63" alt="QR Code &amp; Barcode Scanner for ComfyUI: the ComfyUI logo, the node and its inputs, and a QR code and a barcode being read" width="100%">
     </picture>
   </a>
 </p>
@@ -48,13 +48,14 @@ To make a test image with a known value, use the [QR code generator](https://qrc
 
 The node is built and tested in the engine repository. Its own repository,
 [`qrcode-ai-com/qrcode-barcode-scanner-comfyui`](https://github.com/qrcode-ai-com/qrcode-barcode-scanner-comfyui),
-has been public since 20 November 2026, and its tests pass there. The node is not on the Comfy
-Registry yet: until it is, the commands below that install it from the registry do not work.
+has been public since 20 November 2026, and its tests pass there. Since that day the node is on the
+[Comfy Registry](https://registry.comfy.org/nodes/qrcode-barcode-scanner-nodes) as
+`qrcode-barcode-scanner-nodes`, version 0.1.0, under the publisher QR Code AI (`qrcode-ai-com`).
 
 ## Install
 
-Once the node is on the registry, ComfyUI Manager finds it as **QR Code & Barcode Scanner**. The
-Comfy command line installs it by its id:
+ComfyUI Manager finds the node as **QR Code & Barcode Scanner**. The Comfy command line installs
+it by its id:
 
 ```sh
 comfy node install qrcode-barcode-scanner-nodes

@@ -2,7 +2,7 @@
   "schema": "qrscan-comfyui-stage/1",
   "engine": {
     "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
-    "revision": "e5c48668149332219d903208e1882d27e7cab063"
+    "revision": "700ae222b16a74fa0b0f60488808974d35d62333"
   },
   "satellite": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-comfyui",
   "files": {
@@ -11,7 +11,7 @@
     ".github/workflows/tests.yml": "70569a81e55ad5dbecef22e62afa6c1af71fe4605d866c282c0d30eceb3d20a8",
     ".gitignore": "2099adc7181aa4fdc5b7d708714eb20e71c7aa1b910829d34bd35350f185f087",
     "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
-    "README.md": "f84c4ddeacb59970f9755654ce141150ff17b019777119ec20ff70cf9be7c12f",
+    "README.md": "f65e9ef216d89d2f0255da864a448cee24b4c7cfd639715202571d0ee50cf4f2",
     "__init__.py": "86d14984de959cddcb23d7fc20bdec070fcfe64e2713cd352a3463011eb63c18",
     "pyproject.toml": "ea29e29330f53b16a6374aaf7457b2e36c57024d401d9b3eb7f0cdde87d100bd",
     "qrscan_node.py": "571ab4befa2b5742aacc66f6c30deefe1739468f9fc180c433c5eef590d1566f",
