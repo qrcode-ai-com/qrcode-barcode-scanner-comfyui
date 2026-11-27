@@ -2,7 +2,7 @@
   "schema": "qrscan-comfyui-stage/1",
   "engine": {
     "repository": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-rust",
-    "revision": "75db953b34249502241d4710436af5295c6f9fdb"
+    "revision": "ea14f8199383327faf803b377146086b459f18a2"
   },
   "satellite": "https://github.com/qrcode-ai-com/qrcode-barcode-scanner-comfyui",
   "files": {
@@ -11,16 +11,16 @@
     ".github/workflows/tests.yml": "70569a81e55ad5dbecef22e62afa6c1af71fe4605d866c282c0d30eceb3d20a8",
     ".gitignore": "2099adc7181aa4fdc5b7d708714eb20e71c7aa1b910829d34bd35350f185f087",
     "LICENSE": "f4d433b564117e27b6aaf8f2902f2200368f57bb2d8286129c2f1774c000295a",
-    "README.md": "285957cc5b65b8e4fda54dc8de2401df52e614881b59ee62c1bd05ecf80b90f8",
+    "README.md": "b1e0812b321a3ca5ef3e4bcb5663b5a527645e7634866d30ee7a4299ebabfa20",
     "__init__.py": "86d14984de959cddcb23d7fc20bdec070fcfe64e2713cd352a3463011eb63c18",
-    "pyproject.toml": "25b6108200272b88d996a2bbd7e1d094308bd161aa376301afb868bec899254d",
+    "pyproject.toml": "20079729dcb8ea26eae80f095a18bc829abb0847f829f31db8f47995c0220be4",
     "qrscan_node.py": "571ab4befa2b5742aacc66f6c30deefe1739468f9fc180c433c5eef590d1566f",
-    "requirements.txt": "7959badbc59b557915f8017895622b8af0b38f5b5208985c0af7c63489f3087f",
+    "requirements.txt": "d2dc51d0e182738eef8b3df09087e79c9b94adb68b22cc72fb89df8ef8a82668",
     "tests/conftest.py": "ff226ccf3b1c6e6a6ef8a2a52126426dc499b59b089733b1799180c2bac97309",
     "tests/fixtures/clean/gen_v5_q.png": "1dc399cad19623a145b20251cf1c0da42ea4f54fd79871a4dd796c9554822dd6",
     "tests/fixtures/symbology/mixed-code128-qr.png": "c636e8d56df483ff1ec06dbe9b5bcba226c579f8fc1c3d10c4ccf4e100762ec8",
     "tests/requirements.txt": "fc61536c2a8ee8224561ec0f6fb8acd2fad48512ce1c7334f1fb6c2ca03b9561",
-    "tests/test_node.py": "de90135ea47a40b334b3fe1baae051d5b85741cbad06465c36f1df424ed52d1c",
+    "tests/test_node.py": "3c7885fdca33701211aba149e2c13bf964c817d6b15dc008f5a491f40fee7398",
     "workflows/scan-mixed-fixture.json": "0a340c1a6e6e792c9c1b64a490644de6c05d273d214128ba941cc424888ae8dc"
   }
 }
